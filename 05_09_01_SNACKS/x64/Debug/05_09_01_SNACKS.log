@@ -1,0 +1,8 @@
+﻿  main.cpp
+  Snack.cpp
+  SnackSlot.cpp
+  VendingMachine.cpp
+  Generating Code...
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP_BLOCK1\05_09_01_SNACKS\SnackSlot.cpp(168): warning C4172: returning address of local variable or temporary: temp
+C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP_BLOCK1\05_09_01_SNACKS\SnackSlot.cpp(187): warning C4172: returning address of local variable or temporary: temp
+  05_09_01_SNACKS.vcxproj -> C:\Users\Максим\YandexDisk\Coding\MSVS\SFCPP_BLOCK1\x64\Debug\05_09_01_SNACKS.exe
