@@ -116,6 +116,7 @@ void VendingMachine::sellSnack(unsigned short slot) {
 		return;
 	}
 	balance_ += (*this)[slot].getPrice();
+	(*this)[slot].pop();
 }
 
 bool VendingMachine::isEmpty() const {

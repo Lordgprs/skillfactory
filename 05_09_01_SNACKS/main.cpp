@@ -69,8 +69,10 @@ int main() {
   slot->setPrice(10.00);
   // А теперь давайте продадим клиенту снек:
   std::cout << *machine << std::endl; // Выведем текущую информацию об аппарате
+  std::cout << "Current snacks count in the slot (before sale): " << slot->getSize() << std::endl;
   machine->sellSnack(0);
   std::cout << "Machine balance is now " << machine->getBalance() << std::endl;
+  std::cout << "Current snacks count in the slot (after sale): " << slot->getSize() << std::endl;
 
   // Пора освободить память, выделенную на куче
   delete machine;
