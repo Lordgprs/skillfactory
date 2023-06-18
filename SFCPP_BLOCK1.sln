@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "06_07_01_ELECTRONICS", "06_
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_07_01_IntegerArray", "07_07_01_IntegerArray\07_07_01_IntegerArray.vcxproj", "{E2576249-9E17-4AC2-B4A1-F119BF7AB8B6}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "08_08_01_ArrayTemplate", "08_08_01_ArrayTemplate\08_08_01_ArrayTemplate.vcxproj", "{3359B06E-6929-4252-8BC7-479C5C9FFD97}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{E2576249-9E17-4AC2-B4A1-F119BF7AB8B6}.Release|x64.Build.0 = Release|x64
 		{E2576249-9E17-4AC2-B4A1-F119BF7AB8B6}.Release|x86.ActiveCfg = Release|Win32
 		{E2576249-9E17-4AC2-B4A1-F119BF7AB8B6}.Release|x86.Build.0 = Release|Win32
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Debug|x64.ActiveCfg = Debug|x64
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Debug|x64.Build.0 = Debug|x64
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Debug|x86.ActiveCfg = Debug|Win32
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Debug|x86.Build.0 = Debug|Win32
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Release|x64.ActiveCfg = Release|x64
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Release|x64.Build.0 = Release|x64
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Release|x86.ActiveCfg = Release|Win32
+		{3359B06E-6929-4252-8BC7-479C5C9FFD97}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
